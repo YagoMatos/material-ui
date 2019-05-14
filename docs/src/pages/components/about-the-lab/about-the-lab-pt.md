@@ -1,10 +1,10 @@
 # About the lab
 
-<p class="description">This package hosts the incubator components that are not yet ready to move to the core.</p>
+<p class="description">Esta biblioteca guarda os componentes que ainda não estão prontos para mover para a raiz.</p>
 
 ## Instalação
 
-Install the package in your project directory with:
+Instale esta biblioteca em seu projeto com:
 
 ```sh
 // usando npm
@@ -13,8 +13,7 @@ npm install @material-ui/lab
 // usando yarn
 yarn add @material-ui/lab
 ```
-
-The lab has a peer dependency on the core components. If you are not already using Material-UI in your project, you can install it with:
+O lab tem uma dependência na raiz dos componentes. Se você ainda não estiver usando o Material-UI em seu projeto, você pode instalar isto com:
 
 ```sh
 // usando npm
